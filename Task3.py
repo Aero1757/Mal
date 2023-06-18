@@ -11,9 +11,9 @@ def save_json_file(data, file_path):
 def main():
     # Dane do zapisania w formacie JSON
     data = {
-        'name': 'John Doe',
+        'name': 'Jan Kaczynski',
         'age': 30,
-        'city': 'New York'
+        'city': 'Wroclaw'
     }
 
     file_path = 'output.json'  # Ścieżka do pliku, gdzie mają być zapisane dane
